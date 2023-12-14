@@ -7,9 +7,9 @@ A skilled and passionate developer
 Hi, I'm Danilo, a husband and a father, graduated in Economics with a recently discovered strong passion for programming, automations, english language and data science. Over 3 years of professionaly coding + 1 and a half years by studing doing little projects and courses , I've mastered key technologies from JS/TS and Python ecosystem. Known for being calm and collected, huge positive thinking, adaptability, teamwork, and delivering high-quality code on time, I thrive in collaborative environments. I love diving into books and podcasts daily, keeping myself updated and discovering new technologies to fuel my continuous learning journey. Future plans include mastering Rust programing languages and do a MBA in Software Engineering, as my insatiable curiosity drives me to actively contribute to open-source projects and explore new frontiers in technology.
 
 * 🌍  I'm based in Sâo Caetano do Sul, SP, Brazil
-* 🖥️  See my portfolio at [My Automations and Mini PowerBI](http://github.com/Danilo-Guedes/raizes)
+* 🖥️  See my portfolio at [My Automations and DataApp Mini PowerBI made with Python and Streamlit](http://github.com/Danilo-Guedes/raizes)
 * ✉️  You can contact me at [danilotiba@gmail.com](mailto:danilotiba@gmail.com)
-* 🚀  I'm currently working on [A DataApp that analyses financial and sales data made with Python and Streamlit](http://tosembanda.rocks)
+* 🚀  I'm currently working on [An Musician and Band Website to get people together](http://tosembanda.rocks)
 * 🧠  I'm learning Rust the programming language
 * 🤝  I'm open to collaborating on any python or JS/TS project that catches my interest
 * ⚡  Love English, Love Podcasts, Love to Solve Problems with programming
