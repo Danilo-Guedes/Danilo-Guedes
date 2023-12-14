@@ -15,7 +15,7 @@ Hi, I'm Danilo, a husband and a father, graduated in Economics with a recently d
 * ⚡  Love English, Love Podcasts, Love to Solve Problems with programming
 
 <a href="https://www.x.com/danilotiba" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/danilotiba?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/danilotiba?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
 /></a>
 
 ### Skills
