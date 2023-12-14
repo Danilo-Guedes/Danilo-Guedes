@@ -14,7 +14,7 @@ Hi, I'm Danilo, a husband and a father, graduated in Economics with a recently d
 * 🤝  I'm open to collaborating on any python or JS/TS project that catches my interest
 * ⚡  Love English, Love Podcasts, Love to Solve Problems with programming
 
-[![YouTube Video](https://img.shields.io/youtube/views/bBwWBLGVHSU?style=social)](https://www.youtube.com/watch?v=bBwWBLGVHSU)
+[![YouTube Video](https://img.youtube.com/vi/bBwWBLGVHSU/0.jpg)](https://www.youtube.com/watch?v=bBwWBLGVHSU)
 
 
 <a href="https://www.x.com/danilotiba" target="_blank" rel="noreferrer"><img
