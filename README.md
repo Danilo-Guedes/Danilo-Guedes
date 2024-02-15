@@ -20,7 +20,7 @@ Hi, I'm Danilo, a husband and a father, graduated in Economics with a recently d
 src="https://img.shields.io/twitter/follow/danilotiba?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
 /></a>
 
-## 🔍 Some tests that I've made recently, and you can each of them with only one command 🔎
+## 🔍 Some tests that I've made recently, and you can run each of them with only one command 🔎
 
 > [A Test for a fullstack developer - React + NestJS - that simulates an Movie Searching Webapp - Fev 2024](https://github.com/Danilo-Guedes/nttdata-danilo-test)
 
