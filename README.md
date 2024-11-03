@@ -7,7 +7,7 @@ Hi, I'm Danilo, a husband and a father, graduated in Economics with a recently d
 - 🌍  I'm based in Sâo Caetano do Sul, SP, Brazil
 - 🖥️  See my portfolio at [My Automations and DataApp Mini PowerBI made with Python and Streamlit](http://github.com/Danilo-Guedes/raizes)
 - ✉️  You can contact me at [danilotiba@gmail.com](mailto:danilotiba@gmail.com)
-- 🚀  I'm currently working on [An Musician and Band Website to get people together](http://tosembanda.rocks)
+- 🚀  I recently finished a freelance job on [An Musician and Band Website to get people together](http://tosembanda.rocks)
 - 🧠  I'm learning about Clean Architecture, Data-Science, Machine Learning and the Rust programming language.
 - 🤝  I'm open to collaborating on any Python or JS/TS project that catches my interest
 - ⚡  Love English, Love Podcasts, Love to Solve Problems with programming and Love Rock'n'Roll
