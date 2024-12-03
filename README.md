@@ -2,15 +2,16 @@
 
 ## A skilled and passionate developer
 
-Hi, I'm Danilo, FullStack Developer, a husband and a father, graduated in Economics with a recently discovered strong passion for programming, automations, english language and data science. Over 3 years and a half of professionaly coding + 1 and a half years by studing doing little projects and courses, I've mastered key technologies from JS/TS and Python ecosystem. Known for being calm and collected, huge positive thinking, adaptability, teamwork, and delivering high-quality code on time, I thrive in collaborative environments. I enjoy diving into books and podcasts daily, staying updated and exploring new technologies to fuel my continuous learning journey. Recently, I began learning the Rust programming language, aiming to work with critical systems in the future that leverage the power of Rust. I also aspire to contribute to open-source projects that increasingly choose Rust as their language of choice. With my background in economics and the financial world, I'm particularly interested in data science-driven projects and machine learning. I’ve completed a course in LangChain, RAG, and Agents, which I believe hold great potential for creating AI-powered systems.
+Hi, I'm Danilo, FullStack Developer, a husband and a father, graduated in Economics with a recently discovered strong passion for programming, automations, english language and data science. Over 3 years and a half of professionaly coding + 1 and a half years by studing doing little projects and courses, I've mastered key technologies from 🌐 JS/TS and 🐍 Python ecosystem. Known for being calm and collected, huge positive thinking, adaptability, teamwork, and delivering high-quality code on time, I thrive in collaborative environments. I enjoy diving into books and podcasts daily, staying updated and exploring new technologies to fuel my continuous learning journey. Recently, I began learning 🦀 the Rust programming language, aiming to work with critical systems in the future that leverage the power of Rust. I also aspire to contribute to open-source projects that increasingly choose Rust as their language of choice. With my background in economics and the financial world, I'm particularly interested in data science-driven projects and machine learning. I’ve completed a course in LangChain, RAG, and Agents, which I believe hold great potential for creating AI-powered systems.
 
 - 🌍  I'm based in Sâo Caetano do Sul, SP, Brazil
 - 🖥️  See my portfolio at [My Automations and DataApp Mini PowerBI made with Python and Streamlit](http://github.com/Danilo-Guedes/raizes)
-- ✉️  You can contact me at [danilotiba@gmail.com](mailto:danilotiba@gmail.com)
+- ✉️  You can contact me at [devnroll.code@gmail.com](mailto:devnroll.code@gmail.com)
 - 🚀  I recently finished a freelance job on [An Musician and Band Website to get people together](http://tosembanda.rocks)
-- 🧠  I'm learning about Clean Architecture, Data-Science, Machine Learning and the Rust programming language.
-- 🤝  I'm open to collaborating on any Python or JS/TS project that catches my interest
-- ⚡  Love English, Love Podcasts, Love to Solve Problems with programming and Love Rock'n'Roll
+- 📚  I'm constantly reading about about Clean Architecture, Data-Science, Machine Learning, AI/Prompt techniques like RAG and Agents
+- 🧠  I'm learning 🦀 the Rust programming language and start to implement some low levels application like a simple raw http, a language interpreter using this interesting language.
+- 🤝  I'm open to collaborating on any 🐍 Python, 🌐 JS/TS or 🦀 Rust project that catches my interest
+- ⚡  Love English, Love Podcasts, Love to Solve Problems with programming and Love 🥁🎸🤘 Rock'n'Roll
 
 ### My Youtube Video
 
