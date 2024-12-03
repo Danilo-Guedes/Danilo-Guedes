@@ -6,11 +6,11 @@ Hi, I'm Danilo, FullStack Developer, a husband and a father, graduated in Econom
 
 - 🌍  I'm based in Sâo Caetano do Sul, SP, Brazil
 - 💼 Currently working in a USA based company called [loanofficer.ai](https://loanofficer.ai), an AI powered CRM for Loan Officers.
-- 🖥️  See my portfolio at [My Automations and DataApp Mini PowerBI made with Python and Streamlit](http://github.com/Danilo-Guedes/raizes)
-- ✉️  You can contact me at [devnroll.code@gmail.com](mailto:devnroll.code@gmail.com)
-- 🚀  I recently finished a freelance job on [An Musician and Band Website to get people together](http://tosembanda.rocks)
+- 🖥️  See my portfolio at [My Automations and DataApp Mini PowerBI made with Python and Streamlit](http://github.com/Danilo-Guedes/raizes).
+- ✉️  You can contact me at [devnroll.code@gmail.com](mailto:devnroll.code@gmail.com).
+- 🚀  I recently finished a freelance job on [An Musician and Band Website to get people together](http://tosembanda.rocks).
 - 📚 I'm constantly reading about about Clean Architecture, Data-Science, Machine Learning, AI/Prompt techniques like RAG and Agents
-- 🧠  I'm learning 🦀 the Rust programming language and start to implement some low levels application like a simple raw http, a language interpreter using this interesting language.
+- 🧠  I'm learning 🦀 the Rust programming language and have started implementing some low-level applications, such as a simple raw HTTP server and a language interpreter, using this fascinating language.
 - 🤝  I'm open to collaborating on any 🐍 Python, 🌐 JS/TS or 🦀 Rust project that catches my interest
 - ⚡  Love English, Love Podcasts, Love to Solve Problems with programming and Love 🥁🎸🤘 Rock'n'Roll
 
