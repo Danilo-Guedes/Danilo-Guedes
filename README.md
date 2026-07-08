@@ -1,18 +1,34 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danilo Guedes
 
-## A skilled and passionate developer
+## Full-Stack & AI Engineer · going deep on 🦀 Rust
 
-Hi, I'm Danilo, FullStack Developer, a husband and a father, graduated in Economics with a recently discovered strong passion for programming, automations, english language and data science. Over 4 years and a half of professionaly coding + 1 and a half years by studing doing little projects and courses, I've mastered key technologies from 🌐 JS/TS and 🐍 Python ecosystem. Known for being calm and collected, huge positive thinking, adaptability, teamwork, and delivering high-quality code on time, I thrive in collaborative environments. I enjoy diving into books and podcasts daily, staying updated and exploring new technologies to fuel my continuous learning journey. Recently, I began learning 🦀 the Rust programming language, aiming to work with critical systems in the future that leverage the power of Rust. I also aspire to contribute to open-source projects that increasingly choose Rust as their language of choice. With my background in economics and the financial world, I'm particularly interested in data science-driven projects and machine learning. I’ve completed a course in LangChain, RAG, and Agents, which I believe hold great potential for creating AI-powered systems.
+Hi, I'm Danilo — a Full-Stack & AI Engineer, husband and father, with a background in Economics and a genuine passion for programming, automation, the English language, and data science. I have **5+ years of professional coding experience** (plus a couple of years of self-study before that), and along the way I've built a strong command of the 🌐 JS/TS and 🐍 Python ecosystems.
 
-- 🌍  I'm based in Sâo Caetano do Sul, SP, Brazil
-- 💼 Currently working in a USA based company called [loanofficer.ai](https://loanofficer.ai), an AI powered CRM for Loan Officers.
-- 🖥️  See my portfolio at [My Automations and DataApp Mini PowerBI made with Python and Streamlit](http://github.com/Danilo-Guedes/raizes).
-- ✉️  You can contact me at [devnroll.code@gmail.com](mailto:devnroll.code@gmail.com).
-- 🚀  I recently finished a freelance job on [An Musician and Band Website to get people together](http://tosembanda.rocks).
-- 📚 I'm constantly reading about about Clean Architecture, Data-Science, Machine Learning, AI/Prompt techniques like RAG and Agents
-- 🧠  I'm learning 🦀 the Rust programming language and have started implementing some low-level applications, such as a simple raw HTTP server and a language interpreter, using this fascinating language.
-- 🤝  I'm open to collaborating on any 🐍 Python, 🌐 JS/TS or 🦀 Rust project that catches my interest
-- ⚡  Love English, Love Podcasts, Love to Solve Problems with programming and Love 🥁🎸🤘 Rock'n'Roll
+Lately I've been going deep into 🦀 **Rust**, building systems-level projects from scratch — a tree-walking language interpreter, a raw HTTP server, and more — because I want to work on the kind of critical, high-performance systems Rust is built for, and to contribute to the growing wave of open-source projects choosing it. I'm known for staying calm under pressure, thinking positively, adapting quickly, and delivering high-quality code on time.
+
+We're living in the age of agentic coding, and it's where I feel at home: I build AI-powered features with LLMs, RAG, and agents (I've completed a full course on LangChain, RAG, and Agents), and I code alongside agentic tools every day. With my economics background, I'm especially drawn to fintech, data-science, and AI-driven products — and I keep sharp with books and podcasts daily.
+
+- 🌍  I'm based in São Caetano do Sul, SP, Brazil
+- 💼 Currently working at a USA-based company, [loanofficer.ai](https://loanofficer.ai) — an AI-powered CRM for Loan Officers
+- 🖥️  Explore my data portfolio: [automations and a mini Power BI DataApp built with Python + Streamlit](http://github.com/Danilo-Guedes/raizes)
+- ✉️  Reach me at [devnroll.code@gmail.com](mailto:devnroll.code@gmail.com)
+- 🚀  I built [a website for musicians and bands to connect](http://tosembanda.rocks) as a freelance project
+- 📚 Always reading about Clean Architecture, Data Science, Machine Learning, and AI techniques like RAG and Agents
+- 🧠  Going deep into Rust with low-level projects — a language interpreter, a raw HTTP server, and more (see below 👇)
+- 🤝  Open to collaborating on any 🐍 Python, 🌐 JS/TS, or 🦀 Rust project that catches my interest
+- ⚡  Love English, Love Podcasts, Love solving problems with code, and Love 🥁🎸🤘 Rock'n'Roll
+
+## 🦀 Building in Rust
+
+I learn systems programming by building real things from scratch — no frameworks, just Rust:
+
+> [**guedzlang**](https://github.com/Danilo-Guedes/guedzlang) — a tree-walking programming language interpreter, written from scratch in Rust
+
+> [**my_http_server**](https://github.com/Danilo-Guedes/my_http_server) — a raw HTTP server built from scratch in Rust
+
+> [**sued-rs**](https://github.com/Danilo-Guedes/sued-rs) — a horror-themed terminal recreation of SueD, the classic 2000s Brazilian prank oracle
+
+> [**rust_course**](https://github.com/Danilo-Guedes/rust_course) — my work through "Master The Rust Programming Language" (FastBit Embedded Brain Academy)
 
 ### My Youtube Video
 
@@ -22,13 +38,13 @@ Hi, I'm Danilo, FullStack Developer, a husband and a father, graduated in Econom
 src="https://img.shields.io/twitter/follow/danilotiba?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
 /></a>
 
-## 🔍 Some tests that I've made recently, and you can run each of them with only one command 🔎
+## 🔍 Full-stack sample projects (2023–2024) — each runs with a single command 🔎
 
-> [A Test for a fullstack developer - React + NestJS - that simulates an Movie Searching Webapp - Fev 2024](https://github.com/Danilo-Guedes/nttdata-danilo-test)
+> [A Test for a fullstack developer - React + NestJS - that simulates a Movie Searching Webapp - Feb 2024](https://github.com/Danilo-Guedes/nttdata-danilo-test)
 
-> [A Test for a fullstack developer - React + Node (MERN) - that simulates an Event/Calendar Track Webapp - Fev 2024](https://github.com/Danilo-Guedes/tokenlab-danilo-test)
+> [A Test for a fullstack developer - React + Node (MERN) - that simulates an Event/Calendar Track Webapp - Feb 2024](https://github.com/Danilo-Guedes/tokenlab-danilo-test)
 
-> [A Test for a fullstack developer - React + Node (MERN) - that simulates a Credit Cardt Transactions Webapp - Fev 2024](https://github.com/Danilo-Guedes/whitemex-danilo-test)
+> [A Test for a fullstack developer - React + Node (MERN) - that simulates a Credit Card Transactions Webapp - Feb 2024](https://github.com/Danilo-Guedes/whitemex-danilo-test)
 
 > [A Test for a fullstack developer - React + Node - that simulates a Social Media Webapp - Jan 2024](https://github.com/Danilo-Guedes/quikdev-danilo-test)
 
